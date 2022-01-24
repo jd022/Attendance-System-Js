@@ -45,7 +45,7 @@
 		</div>
 		<div class = "navbar navbar-fixed-bottom" style="background-color: blue; color: white;">
 			<div class = "container-fluid">
-				<center><label>&copy; CHMSC Attendance Management System 2021</label></center>
+				<center><label>&copy; Minegahara High School 2021</label></center>
 				
 			</div>	
 		</div>	
